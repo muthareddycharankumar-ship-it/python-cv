@@ -69,11 +69,10 @@ python blur.py
 ✔ Good starting point for freelance/OpenCV portfolio
 
 📧 Contact / About Me
-
 Charan Kumar Reddy Muthareddy
+
 GitHub: https://github.com/muthareddycharankumar-ship-it
 Email: (muthareddycharankumar@gmail.com)
 LinkedIn: (https://www.linkedin.com/in/charan-kumar-reddy-mutha-reddy)
 
 This repository is part of my Computer Vision learning & freelancing portfolio.
-
